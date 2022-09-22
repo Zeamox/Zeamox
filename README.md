@@ -2,7 +2,7 @@
 - 👀 I’m interested in, well surprisingly, coding and getting better at it
 - 🌱 I’m currently learning Python thingies
 - 💞️ I’m looking to collaborate on [Yet to find]
-- 📫 How to reach me : Don't 😎 (titouilledg3@gmail.com, if your message manages to get past all those useless spam mails etc. I should unsubscribe to)
+- 📫 How to reach me : Don't 😎
 
 <!---
 Zeamox/Zeamox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
